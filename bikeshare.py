@@ -42,7 +42,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-     # load data file into a dataframe
+     # load data file into a dataframe.
   
 
     print('Hello! Let\'s explore some US bikeshare data!')
