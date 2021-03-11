@@ -7,7 +7,7 @@
 bikeshare
 
 ### Description
-Describe what your project is about and what it does
+explore us bikeshare
 
 ### Files used
 Include the files used
